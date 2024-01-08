@@ -133,3 +133,5 @@ dist
 /server/src/config/mail.config.ts
 /server/src/config/google.config.ts
 /server/src/core/constants/jwt.constants.ts
+
+/.idea/
