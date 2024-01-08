@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+/server/src/config/typeORM.config.ts
+/server/src/config/mail.config.ts
+/server/src/config/google.config.ts
+/server/src/core/constants/jwt.constants.ts
